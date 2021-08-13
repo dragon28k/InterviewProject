@@ -6,7 +6,7 @@ public class Test2 {
 		
 		String name="santhosh";
 		if(name.equalsIgnoreCase("santhosh")) {
-			System.out.println("Yes");
+			System.out.println("Yessss");
 		}else
 			System.out.println("Noo");
 		
