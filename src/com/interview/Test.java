@@ -4,7 +4,9 @@ public class Test {
 
 	public static void main(String[] args) {
 		
-		System.out.println("GIT testing");
+		//System.out.println("GIT testing");
+		
+		String name="Santhosh";
 
 	}
 
