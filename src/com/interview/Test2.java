@@ -8,7 +8,7 @@ public class Test2 {
 		if(name.equalsIgnoreCase("santhosh")) {
 			System.out.println("Yes");
 		}else
-			System.out.println("No");
+			System.out.println("Noo");
 		
 
 	}
